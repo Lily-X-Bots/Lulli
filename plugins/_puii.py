@@ -16,19 +16,19 @@ from . import LOG_CHANNEL, LOGS, Button, asst, eor, get_string, puii_cmd
 REPOMSG = """
 • **PUII USERBOT** •\n
 
-• Addons - [Click Here](https://github.com/AellyXD/PuiiAddons)
-• Support - @puiisupport
+• Addons - [Click Here](https://t.me/Lily_x_bots)
+• Support - @Lily_x_bots
 """
 
 RP_BUTTONS = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/AellyXD/Puii"),
-        Button.url("Addons", "https://github.com/AellyXD/Puiiaddons"),
+        Button.url(get_string("bot_3"), "https://t.me/Lily_x_bots"),
+        Button.url("Addons", "https://t.me/Lily_x_bots"),
     ],
     [Button.url("Support Group", "t.me/PuiiSupport")],
 ]
 
-ULTSTRING = """🎇 **Thanks for Deploying Puii Userbot!**
+ULTSTRING = """🎇 **Thanks for Deploying Lily Userbot!**
 
 • Here, are the Some Basic stuff from, where you can Know, about its Usage."""
 
