@@ -17,21 +17,21 @@ STRINGS = {
 
 🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@AellyXD**""",
+❣ Made by **@Its_Your_Aryan**""",
     3: """**💡• FAQs •**
 
--> [Username Tracker](https://t.me/AellyXD/8)
--> [Keeping Custom Addons Repo](https://AellyXD/9)
--> [Disabling Deploy message](https://t.me/AellyXD/10)
+-> [Username Tracker](https://t.me/Lily_x_bots)
+-> [Keeping Custom Addons Repo](https://t.me/Lily_x_bots)
+-> [Disabling Deploy message](https://t.me/Lily_x_bots)
 
-**• To Know About Updates**
-  - Join @AellyXD.""",
+**• To Know About Update**
+  - Join @Lily_x_bots.""",
     4: f"""• `To Know All Available Commands`
 
   - `{HNDLR}help`
   - `{HNDLR}cmds`""",
     5: """• **For Any Other Query or Suggestion**
-  - Move to **@AellyXD**.
+  - Move to **@Lily_x_bots**.
 
 • Thanks for Reaching till END.""",
 }
