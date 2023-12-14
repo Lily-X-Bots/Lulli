@@ -61,7 +61,7 @@ def main():
 
     suc_msg = """
             ----------------------------------------------------------------------
-                Puii has been deployed! Visit @AellyXD for updates!!
+                Lily Userbot has been deployed! Visit @Lily_x_bots for updates!!
             ----------------------------------------------------------------------
     """
 
