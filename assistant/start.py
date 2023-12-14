@@ -29,7 +29,7 @@ if Owner_info_msg is None:
 
 **Message Forwards** - {udB.get_key("PMBOT")}
 
-**Puii [v{puii_version}](https://github.com/AellyXD/Puii), powered by @AellyXD**
+**Puii [v{puii_version}](https://t.me/Lily_x_bots), powered by @its_Your_Aryan**
 """
 
 
