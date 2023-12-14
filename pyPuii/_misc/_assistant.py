@@ -21,10 +21,10 @@ from . import append_or_update, owner_and_sudos
 OWNER = puii_bot.full_name
 
 MSG = f"""
-**Puii - UserBot**
+**Lily - UserBot**
 ➖➖➖➖➖➖➖➖➖➖
 **Owner**: [{OWNER}](tg://user?id={puii_bot.uid})
-**Support**: @AellyXD
+**Support**: @Lily_x_bots
 ➖➖➖➖➖➖➖➖➖➖
 """
 
@@ -32,9 +32,9 @@ IN_BTTS = [
     [
         Button.url(
             "Repository",
-            url="https://github.com/AellyXD/Puii",
+            url="https://t.me/Lily_x_bots",
         ),
-        Button.url("Support", url="https://t.me/AellyXD"),
+        Button.url("Support", url="https://t.me/Lily_x_bots"),
     ]
 ]
 
@@ -98,9 +98,9 @@ def in_pattern(pattern=None, owner=False, **kwargs):
             if owner and event.sender_id not in owner_and_sudos():
                 res = [
                     await event.builder.article(
-                        title="Puii Userbot",
-                        url="https://t.me/AellyXD",
-                        description="(c) AellyXD",
+                        title="Lily Userbot",
+                        url="https://t.me/Lily_x_bots",
+                        description="(c) @Lily_x_bots",
                         text=MSG,
                         thumb=InputWebDocument(
                             "https://graph.org/file/08c6b87d3c9257d63438c.jpg",
@@ -134,7 +134,7 @@ def in_pattern(pattern=None, owner=False, **kwargs):
                                 title="Unhandled Exception has Occured!",
                                 text=error_text(),
                                 buttons=Button.url(
-                                    "Report", "https://t.me/AellyXD"
+                                    "Report", "https://t.me/Lily_x_bots"
                                 ),
                             )
                         ]
