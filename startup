@@ -5,7 +5,7 @@ echo "
          █    █  █     ▀  
          ▀▀▀  ▀  ▀▀▀▀ ▀  
 
-      Visit @AellyXD for updates!!
+      Visit @Lily_x_bots for updates!!
 
 "
 if [ -f .env ] ; then  set -o allexport; source .env; set +o allexport ; fi
