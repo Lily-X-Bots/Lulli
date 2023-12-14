@@ -84,7 +84,7 @@ The Puii Userbot
   ◍ Telethon - {}
 """
 
-in_alive = "{}\n\n🌀 <b>Puii Version -><b> <code>{}</code>\n🌀 <b>PyPuii -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b>[ {} ]\n\n• <b>Join @AellyXD</b>"
+in_alive = "{}\n\n🌀 <b>Lily Version -><b> <code>{}</code>\n🌀 <b>PyPuii -></b> <code>{}</code>\n🌀 <b>Python -></b> <code>{}</code>\n🌀 <b>Uptime -></b> <code>{}</code>\n🌀 <b>Branch -></b>[ {} ]\n\n• <b>Join @Lily_x_bots</b>"
 
 
 @callback("alive")
