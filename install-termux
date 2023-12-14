@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # Puii - UserBot
 # Copyright (C) 2023-24
-#this file is the part of https://AellyXD/Puii
+#this file is the part of https://Lily-X-Bots/Lulli
 
 if [ -d "resources" ]
 then
     echo "Current directory Identified.."
 else
     apt install git -y
-    git clone https://github.com/AellyXD/Puii
-    cd Puii
+    git clone https://github.com/Lily-X-Bots/Lulli
+    cd Lulli
 fi
 bash resources/startup/termux.sh
